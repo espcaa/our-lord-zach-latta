@@ -1,7 +1,6 @@
 pfp.png
 list.txt
 cowboy.png
-printf
 zeropointfive.png
 undercity.png
 juice.png
